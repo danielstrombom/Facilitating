@@ -1,5 +1,5 @@
 # Facilitating
-Instructions for how to regenerate Figures 2A, 2B, and S1 from new simulations for review purposes of Strömbom et al. 2024 Modelling the emergence of social-bird biological controls to combat the spotted lanternfly and similar invasive pests. Royal Society Open Science 11 (2), 231671. (https://royalsocietypublishing.org/doi/10.1098/rsos.231671). Download all files and then follow instructions below.
+Code for Strömbom et al. 2024 Modelling the emergence of social-bird biological controls to combat the spotted lanternfly and similar invasive pests. Royal Society Open Science 11 (2), 231671. (https://royalsocietypublishing.org/doi/10.1098/rsos.231671). Download all files and then follow instructions below.
 
 REGENERATE FIGURES FROM NEW SIMULATIONS 
 
